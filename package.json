@@ -1,0 +1,12 @@
+{
+  "name": "bot-whatsapp-getion-ticket",
+  "version": "1.0.0",
+  "description": "Se realiza un servidor NODE   conectado con un BOT y WHATSAPP para gestionar TICKETS o RECLAMOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
